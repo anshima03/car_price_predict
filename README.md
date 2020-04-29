@@ -27,3 +27,6 @@ Seats: The number of seats in the car.
 New_Price: The price of a new car of the same model.
 
 Price: The price of the used car in INR Lakhs.
+
+Dataset :
+https://www.kaggle.com/avikasliwal/used-cars-price-prediction
